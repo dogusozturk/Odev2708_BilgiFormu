@@ -14,7 +14,7 @@ namespace Odev2708
 {
     public partial class Form1 : Form
     {
-        DataModel dataModel = new DataModel();
+        DataModel dm = new DataModel();
         public Form1()
         {
             InitializeComponent();
@@ -25,7 +25,7 @@ namespace Odev2708
             comboBoxisim.DisplayMember = "Isim";
             comboBoxSoyisim.ValueMember = "ID";
             comboBoxSoyisim.DisplayMember = "Soyisim";
-            List<Kullanicilar> kullanici = dataModel.GetIsim();
+            List<Kullanicilar> kullanici = dm.GetIsim();
             kullanici.Insert(0, new Kullanicilar { ID = 0, Isim = "İsim Seç", Soyisim = "Soyisim Seç"});
             comboBoxisim.DataSource = kullanici;
             comboBoxSoyisim.DataSource = kullanici;
