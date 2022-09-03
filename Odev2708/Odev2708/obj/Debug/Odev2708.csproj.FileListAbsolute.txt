@@ -1,0 +1,14 @@
+C:\Users\Doğuş\source\repos\Odev2708\Odev2708\bin\Debug\Odev2708.exe.config
+C:\Users\Doğuş\source\repos\Odev2708\Odev2708\bin\Debug\Odev2708.exe
+C:\Users\Doğuş\source\repos\Odev2708\Odev2708\bin\Debug\Odev2708.pdb
+C:\Users\Doğuş\source\repos\Odev2708\Odev2708\bin\Debug\DataAccessLayer.dll
+C:\Users\Doğuş\source\repos\Odev2708\Odev2708\bin\Debug\DataAccessLayer.pdb
+C:\Users\Doğuş\source\repos\Odev2708\Odev2708\obj\Debug\Odev2708.csproj.AssemblyReference.cache
+C:\Users\Doğuş\source\repos\Odev2708\Odev2708\obj\Debug\Odev2708.csproj.SuggestedBindingRedirects.cache
+C:\Users\Doğuş\source\repos\Odev2708\Odev2708\obj\Debug\Odev2708.Form1.resources
+C:\Users\Doğuş\source\repos\Odev2708\Odev2708\obj\Debug\Odev2708.Properties.Resources.resources
+C:\Users\Doğuş\source\repos\Odev2708\Odev2708\obj\Debug\Odev2708.csproj.GenerateResource.cache
+C:\Users\Doğuş\source\repos\Odev2708\Odev2708\obj\Debug\Odev2708.csproj.CoreCompileInputs.cache
+C:\Users\Doğuş\source\repos\Odev2708\Odev2708\obj\Debug\Odev2708.csproj.CopyComplete
+C:\Users\Doğuş\source\repos\Odev2708\Odev2708\obj\Debug\Odev2708.exe
+C:\Users\Doğuş\source\repos\Odev2708\Odev2708\obj\Debug\Odev2708.pdb
